@@ -1,0 +1,47 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce G210M (ID=0xa74)
+    Vendor:   NVIDIA
+    VRAM:     1218 MB
+    Driver:   21.21.13.4201
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.108 seconds
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Assignment1_Qbert\QbertGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.566382 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.255667 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 5.302678 ms (FindLiveObjects: 0.082125 ms CreateObjectMapping: 0.027530 ms MarkObjects: 0.513282 ms  DeleteObjects: 4.652675 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.004634 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 0.534280 ms (FindLiveObjects: 0.076525 ms CreateObjectMapping: 0.027064 ms MarkObjects: 0.406426 ms  DeleteObjects: 0.013532 ms)
+
+Quitting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16798 -> priority: 1 
